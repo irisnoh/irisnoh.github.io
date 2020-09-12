@@ -30,7 +30,9 @@
  .text-primary{color:#b6c2b7!important}footer{padding:5rem 0}
  .avatar {
     vertical-align: middle;
-    width: 150px;
-    height: 150px;
+    width: 175px;
+    height: 175px;
     border-radius: 50%;
   }
+  .dino-stickers { width: 425px;
+   height: auto;}
